@@ -9,5 +9,4 @@ public class CreditAnalyserApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CreditAnalyserApplication.class, args);
 	}
-
 }
